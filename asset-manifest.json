@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/imageview-api/static/css/main.c76de836.css",
+    "main.js": "/imageview-api/static/js/main.50a0efeb.js",
+    "index.html": "/imageview-api/index.html",
+    "main.c76de836.css.map": "/imageview-api/static/css/main.c76de836.css.map",
+    "main.50a0efeb.js.map": "/imageview-api/static/js/main.50a0efeb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c76de836.css",
+    "static/js/main.50a0efeb.js"
+  ]
+}
