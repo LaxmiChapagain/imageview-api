@@ -1,3 +1,6 @@
+This project is hosted at : https://laxmichapagain.github.io/imageview-api/
+
+
 
 # Task 2: Get Data from api and display
 1. Get a list of images whose “albumId” is 1 from this endpoint:
